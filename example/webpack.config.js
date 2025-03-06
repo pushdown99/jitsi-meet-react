@@ -35,7 +35,6 @@ module.exports = {
         },
         static: './',
         hot: true,
-        //host: 'host.docker.internal',
         host: '0.0.0.0',
         port: 5001
     }
