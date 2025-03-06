@@ -193,7 +193,7 @@ const App = () => {
                 JitsiMeeting Demo App
             </h1>
             <JitsiMeeting
-                domain = { 'localhost:8443' }
+                domain = { '192.168.0.44:8443' }
                 //roomName = { generateRoomName() }
                 roomName = { 'room1' }
                 spinner = { renderSpinner }
